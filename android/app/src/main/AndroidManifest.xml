@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.crowdit.flutter_web_app">
+    package="com.example.flutter_web_app">
    <application
         android:label="flutter_web_app"
         android:icon="@mipmap/ic_launcher">

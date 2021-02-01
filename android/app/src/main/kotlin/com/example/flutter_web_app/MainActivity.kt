@@ -1,4 +1,4 @@
-package com.crowdit.flutter_web_app
+package com.example.flutter_web_app
 
 import io.flutter.embedding.android.FlutterActivity
 
